@@ -10,7 +10,7 @@ public class Test1 {
 	{
 		System.out.println("Successful testng class");
 		System.out.println("Added new code1");
-		System.out.println("Added code2");
+		System.out.println("Corrected code");
 	}
 	
 	
