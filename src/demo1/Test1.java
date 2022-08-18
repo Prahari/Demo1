@@ -9,6 +9,7 @@ public class Test1 {
 	public void publish()
 	{
 		System.out.println("Successful testng class");
+		System.out.println("Added new code1");
 	}
 	
 	
