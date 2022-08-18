@@ -11,6 +11,7 @@ public class Test1 {
 		System.out.println("Successful testng class");
 		System.out.println("Added new code1");
 		System.out.println("Corrected code");
+		System.out.println("Corrected code-2");
 	}
 	
 	
